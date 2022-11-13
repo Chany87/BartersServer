@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X5IHTbmZuV4qX/1isWX1yFbY6cgvPV3n76F0o8VuCdV2JV6jbzvKIn5ILUM/vfgDnm33lSIH10y8qKDPEyjQeQ==",
+  "dgSpecHash": "dyf13DCdTv0rQ4bZdkr4wOhckoAUe0Hel/AEMA2qoOsFJbDpAMwR7mPUXLsyuQThq7R3VQ+c7mdzz6UucSmXmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\This_user\\source\\repos\\BartersApi\\BartersDTO\\BartersDTO.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\BartersServer\\BartersDTO\\BartersDTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
